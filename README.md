@@ -31,10 +31,10 @@ Before calling Claude, `classifyMessage` scans the lowercased guest text against
 Screenshots from exercising the webhook (payload shape, drafted reply, score, and `action`).
 
 #### Test 1 — Pre-sales Availability
-![Test 1](<Screenshots (testcases)/testcase-1.jpeg>)
+![Test 1](<Screenshots (testcases)/testcase-2.jpeg>)
 
 #### Test 2 — Complaint (escalate)
-![Test 2](<Screenshots (testcases)/testcase-2.jpeg>)
+![Test 2](<Screenshots (testcases)/testcase-1.jpeg>)
 
 #### Test 3 — General Enquiry
 ![Test 3](<Screenshots (testcases)/testcase-3.jpeg>)
